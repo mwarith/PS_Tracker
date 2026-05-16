@@ -1,10 +1,10 @@
-# 🚀 CP-Tracker: Your Ultimate Competitive Programming Companion
+# 🚀 PS-Tracker: Your Ultimate Competitive Programming Companion
 
-Welcome to **CP-Tracker**, the ultimate tool to supercharge your competitive programming journey! Whether you're a beginner or a seasoned coder, CP-Tracker is here to help you track your progress, organize your problems, and level up your skills. 🌟
+Welcome to **PS-Tracker**, the ultimate tool to supercharge your competitive programming journey! Whether you're a beginner or a seasoned coder, CP-Tracker is here to help you track your progress, organize your problems, and level up your skills. 🌟
 
 ---
 
-## 🌟 **Why CP-Tracker?**
+## 🌟 **Why PS-Tracker?**
 
 Competitive programming can be challenging, but with **CP-Tracker**, you'll have everything you need to stay organized, motivated, and on top of your game. Here's what makes CP-Tracker special:
 
